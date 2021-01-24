@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aulas type="array">
+  <aula>
+    <ant-id type="integer">0</ant-id>
+    <conteudo nil="true"></conteudo>
+    <conteudo-extra nil="true"></conteudo-extra>
+    <conteudo-id type="integer" nil="true"></conteudo-id>
+    <created-at type="datetime">2010-10-19T19:10:42Z</created-at>
+    <descricao>Curso de Intera&#231;&#227;o Humano-Computador.</descricao>
+    <id type="integer">640</id>
+    <prox-id type="integer">0</prox-id>
+    <raiz type="boolean">false</raiz>
+    <titulo>Curso de IHC</titulo>
+    <updated-at type="datetime">2010-10-19T19:10:42Z</updated-at>
+    <usuario-id type="integer" nil="true"></usuario-id>
+    <x type="integer">0</x>
+    <y type="integer">0</y>
+    <conteudos type="array">
+      <conteudo type="Texto">
+        <ant-id type="integer">0</ant-id>
+        <conteudo>null</conteudo>
+        <conteudo-extra>qrcodes/qr_641.jpg</conteudo-extra>
+        <conteudo-id type="integer">640</conteudo-id>
+        <created-at type="datetime">2010-10-19T19:10:42Z</created-at>
+        <descricao>Logo do IHC</descricao>
+        <id type="integer">641</id>
+        <prox-id type="integer">642</prox-id>
+        <raiz type="boolean">true</raiz>
+        <titulo>Logo do IHC</titulo>
+        <updated-at type="datetime">2010-10-19T19:10:42Z</updated-at>
+        <usuario-id type="integer" nil="true"></usuario-id>
+        <x type="integer">39</x>
+        <y type="integer">220</y>
+      </conteudo>
+      <conteudo type="Figura">
+        <ant-id type="integer">0</ant-id>
+        <conteudo>contents/642.jpg</conteudo>
+        <conteudo-extra>qrcodes/qr_642.jpg</conteudo-extra>
+        <conteudo-id type="integer">640</conteudo-id>
+        <created-at type="datetime">2010-10-19T19:10:42Z</created-at>
+        <descricao>null</descricao>
+        <id type="integer">642</id>
+        <prox-id type="integer">643</prox-id>
+        <raiz type="boolean">false</raiz>
+        <titulo>Cidade de Fortaleza</titulo>
+        <updated-at type="datetime">2010-10-19T19:10:42Z</updated-at>
+        <usuario-id type="integer" nil="true"></usuario-id>
+        <x type="integer">225</x>
+        <y type="integer">214</y>
+      </conteudo>
+      <conteudo type="Questionario">
+        <ant-id type="integer">0</ant-id>
+        <conteudo>Qual time voce torce?</conteudo>
+        <conteudo-extra nil="true"></conteudo-extra>
+        <conteudo-id type="integer">640</conteudo-id>
+        <created-at type="datetime">2010-10-19T19:10:42Z</created-at>
+        <descricao>null</descricao>
+        <id type="integer">643</id>
+        <prox-id type="integer">0</prox-id>
+        <raiz type="boolean">false</raiz>
+        <titulo>Qual time voce torce?</titulo>
+        <updated-at type="datetime">2010-10-19T19:10:42Z</updated-at>
+        <usuario-id type="integer" nil="true"></usuario-id>
+        <x type="integer">394</x>
+        <y type="integer">210</y>
+        <alternativas type="array">
+          <alternativa>
+            <conteudo-id type="integer">643</conteudo-id>
+            <correta type="boolean">true</correta>
+            <created-at type="datetime">2010-10-19T19:10:42Z</created-at>
+            <id type="integer">211</id>
+            <prox-id type="integer">644</prox-id>
+            <rotulo>Fortaleza</rotulo>
+            <updated-at type="datetime">2010-10-19T19:10:42Z</updated-at>
+          </alternativa>
+          <alternativa>
+            <conteudo-id type="integer">643</conteudo-id>
+            <correta type="boolean">true</correta>
+            <created-at type="datetime">2010-10-19T19:10:42Z</created-at>
+            <id type="integer">212</id>
+            <prox-id type="integer">645</prox-id>
+            <rotulo>Ceara</rotulo>
+            <updated-at type="datetime">2010-10-19T19:10:42Z</updated-at>
+          </alternativa>
+        </alternativas>
+      </conteudo>
+      <conteudo type="Texto">
+        <ant-id type="integer">0</ant-id>
+        <conteudo>null</conteudo>
+        <conteudo-extra nil="true"></conteudo-extra>
+        <conteudo-id type="integer">640</conteudo-id>
+        <created-at type="datetime">2010-10-19T19:10:42Z</created-at>
+        <descricao>Leao!</descricao>
+        <id type="integer">644</id>
+        <prox-id type="integer">646</prox-id>
+        <raiz type="boolean">false</raiz>
+        <titulo>Fortaleza</titulo>
+        <updated-at type="datetime">2010-10-19T19:10:42Z</updated-at>
+        <usuario-id type="integer" nil="true"></usuario-id>
+        <x type="integer">521</x>
+        <y type="integer">77</y>
+      </conteudo>
+      <conteudo type="Texto">
+        <ant-id type="integer">0</ant-id>
+        <conteudo>null</conteudo>
+        <conteudo-extra nil="true"></conteudo-extra>
+        <conteudo-id type="integer">640</conteudo-id>
+        <created-at type="datetime">2010-10-19T19:10:42Z</created-at>
+        <descricao>Cear&#225;</descricao>
+        <id type="integer">645</id>
+        <prox-id type="integer">646</prox-id>
+        <raiz type="boolean">false</raiz>
+        <titulo>Cear&#225;</titulo>
+        <updated-at type="datetime">2010-10-19T19:10:42Z</updated-at>
+        <usuario-id type="integer" nil="true"></usuario-id>
+        <x type="integer">555</x>
+        <y type="integer">332</y>
+      </conteudo>
+      <conteudo type="Figura">
+        <ant-id type="integer">0</ant-id>
+        <conteudo>contents/646.jpg&amp;t=1</conteudo>
+        <conteudo-extra nil="true"></conteudo-extra>
+        <conteudo-id type="integer">640</conteudo-id>
+        <created-at type="datetime">2010-10-19T19:10:42Z</created-at>
+        <descricao>null</descricao>
+        <id type="integer">646</id>
+        <prox-id type="integer">0</prox-id>
+        <raiz type="boolean">false</raiz>
+        <titulo>Castel&#227;o</titulo>
+        <updated-at type="datetime">2010-10-19T19:10:42Z</updated-at>
+        <usuario-id type="integer" nil="true"></usuario-id>
+        <x type="integer">695</x>
+        <y type="integer">205</y>
+      </conteudo>
+    </conteudos>
+  </aula>
+</aulas>
